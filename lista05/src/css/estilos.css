@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.depoimentos {
+    display: flex;
+    justify-content: center;
+    background-color: #e7e0e0;
+    height: 500px;
+}
+
+.avaliacaoClientes {
+    border: 1px solid black;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.avaliacaoClientes > h2 {
+    color: red;
+}
+
