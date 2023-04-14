@@ -1,6 +1,12 @@
+import AvaliacaoCliente from "./components/main/section/AvaliacaoCliente";
+
 export default function App() {
   return (
-    <h1>Hello World!</h1>
+    <AvaliacaoCliente
+      nome = "Ana Brooks"
+      img = "foto01.jpg"
+      avaliacao01 = "legal"
+      avaliacao02 = "ok"/>
   )
 }
 
