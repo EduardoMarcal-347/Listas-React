@@ -1,7 +1,7 @@
 import AvaliacaoCliente from "./AvaliacaoCliente";
 
 export default function Depoimentos() {
-    
+
     return (
         <section className="depoimentos">
             <AvaliacaoCliente
