@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.depoimentos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e7e0e0;
+    height: 500px;
+}
+
+.avaliacaoClientes {
+    width: 270px;
+    height: 300px;
+    box-shadow: 2px 1px 6px black;
+    text-align: center;
+    background-color: white;
+    padding: 25px 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.avaliacaoClientes > h2 {
+    color: rgb(206, 25, 25);
+    font-size: 18px;
+}
+
+.avaliacaoClientes > p {
+    padding: 25px 0px 12px 0px;
+    font-size: 13px;
+}
+
+.avaliacaoClientes > p:nth-child(3) {
+    font-weight: 600;
+}
+
+.avaliacaoClientes > p:last-of-type {
+    color: #7e7979;
+    font-size: 12.6px;
+    padding-bottom: 0px;
+}
+
+.avaliacaoClientes > img {
+    border-radius: 3pc;
+    margin-top: -75px;
+}
+
