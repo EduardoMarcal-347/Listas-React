@@ -1,0 +1,28 @@
+[
+    {
+        "nome" : "Ana Bruck",
+        "avaliacao01": "Eu recomendo a leticia, pois o atendimento dela fez toda a diferença",
+        "avaliacao02": "A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queriamos."
+    },
+    {
+        "nome" : "Dani Schutz",
+        "avaliacao01": "Eu recomendo a leticia, pois a forma que ela me guiou no atendimento foi sensacional",
+        "avaliacao02": "Com certeza a ajuda dela foi indinspensável para que eu pudesse realizar a compra do meu primeiro imóvel."
+    },
+    {
+        "nome" : "Bia Wolf",
+        "avaliacao01": "Amei o atendimento, irei sempre recomendar essa excelente profissional",
+        "avaliacao02": "Me ajudou de forma muito carinhosa e auxiliou a escolher a melhor opção para minha familia"
+    },
+    {
+        "nome" : "Luciano Urias",
+        "avaliacao01": "A Leticia é uma garota super talentosa e com um grande dom de ajudar as pessoas",
+        "avaliacao02": "Tenho ela como parte da familia pela amizade que construimos durante o processo, super recomendo!!!"
+    },
+    {
+        "nome" : "Wilson Pontes",
+        "avaliacao01": "O atendimento dela foi imprescindivel para eu escolher comprar o meu imovel",
+        "avaliacao02": "Super profissional e prestativa, recomendo a todos que buscam um atendimento de qualidade."
+    }
+
+]
